@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="key">fb58d22564cf41b18e7232733212212</string>
+    <array name="cities">
+        <item>челябинск</item>
+        <item>москва</item>
+        <item>екатеринбург</item>
+        <item>новосибирск</item>
+        <item>казань</item>
+    </array>
+</resources>
